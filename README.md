@@ -8,5 +8,4 @@ Here is the list of some services implemented in this OS:
 
 ## Installing the OS Simulator
 You can install qemu simulator in ubuntu using the following commands:
-sudo apt-get install qemu-system-i386
-sudo apt-get install qemu
+sudo apt-get install qemu-system-i386 qemu
